@@ -1,0 +1,2 @@
+# whmcs-deny-multiple-addons
+ 
